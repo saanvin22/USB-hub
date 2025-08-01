@@ -24,3 +24,5 @@ Quantity - Part -	JLCPCB Price
 6 - 10uF - 0.0008
 
 Estimated total: 55$
+
+    | Header 1 | Header 2 | Header 3 |

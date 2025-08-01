@@ -16,13 +16,15 @@ A small personalized USB hub for my devices and cables. I created this to gain f
 
 
 # BOM
-Quantity - Part -	JLCPCB Price
-1	- NSR0320MW2T1G -	0.0071
-1 -	SL2.1A - 0.0365
-1	- U-G-O4DD-W-1 - 0.0123
-3 -	903-131A1011D10100 - 0.0061
-6 - 10uF - 0.0008
+| Quantity | Part | JLCPCB Price |
+| :------ | :---------: | ------: |
+| 1 | NSR0320MW2T1G | 0.0071 |
+| 1 | U-G-O4DD-W-1 | 0.0123 |
+| 1 | SL2.1A | 0.0365 |
+| 1 | 903-131A1011D10100 | 0.0061 |
+| 1 | 10uF | 0.0008 |
 
-Estimated total: 55$
+
+Estimated total + shipping: 55$
 
     | Header 1 | Header 2 | Header 3 |

@@ -22,3 +22,5 @@ Quantity - Part -	JLCPCB Price
 1	- U-G-O4DD-W-1 - 0.0123
 3 -	903-131A1011D10100 - 0.0061
 6 - 10uF - 0.0008
+
+Estimated total: 55$

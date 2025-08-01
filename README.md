@@ -26,5 +26,3 @@ A small personalized USB hub for my devices and cables. I created this to gain f
 
 
 Estimated total + shipping: 55$
-
-    | Header 1 | Header 2 | Header 3 |

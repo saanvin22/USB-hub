@@ -3,7 +3,7 @@ title: "USB-hub"
 author: "Saanvi"
 description: "A small usb hub for my personal needs"
 created_at: "2025-07-30"
-time: "10 hrs"
+time: "15 hrs"
 ---
 
 
@@ -30,6 +30,10 @@ Since I had the schematic and PCB ready to go, I focused on creating the CAD and
 
 <img width="917" height="558" alt="Cad" src="https://github.com/user-attachments/assets/4ee9410b-abab-4d60-882b-fe53ff06ea97" />
 
-Total time spent: 3h
+# August 4th: Redid the Pcb and Cad, Updated Github & Images
+
+Cyao was able to point out issues in my project and I looked back and tried to fix them, but realized I made a mistake with the way the board outline is done. That wasn't very fun, but I ended up redoing the placements of the female ports, the traces and the outline just to be safe. Then I finished with the changes in the CAD and updated this. The cad is a similar verson, but with more walls and components. and I just made the pcb a little larger on one side. That's pretty much it.
+
+Total time spent: 5h
 
 

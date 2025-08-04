@@ -1,2 +1,0 @@
-PCB source:
-EasyEDA, web browser edition

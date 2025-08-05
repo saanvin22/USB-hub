@@ -3,6 +3,7 @@ A small personalized USB hub for my devices and cables. I created this to gain f
 
 
 # PCB design 
+<img width="847" height="390" alt="pcb" src="https://github.com/user-attachments/assets/6d0794fe-4c5a-47c7-973c-4cef3bc5db37" />
 
 
 # Schematic

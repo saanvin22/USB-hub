@@ -39,7 +39,6 @@ Cyao was able to point out issues in my project and I looked back and tried to f
 
 <img width="786" height="331" alt="case + pcb" src="https://github.com/user-attachments/assets/71d2e5da-cba7-4d38-91df-4bb6b4143391" />
 
-
-# Total time spent: 7h
+Total time spent: 7h
 
 

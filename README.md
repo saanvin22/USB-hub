@@ -26,7 +26,7 @@ The case will be attached with the glue tape I already own. Parts ordered throug
 | 6 | 10uF | 0.11 |
 | 1 | PCB | 2.10 |
 
-Total + shipping: 31.81 + 28.89: $61.70 ~ $62
+Total + shipping: 31.81 + 29.89 = $61.7 (about ~$62)
 
 
 

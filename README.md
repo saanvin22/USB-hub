@@ -1,6 +1,8 @@
 # USB-hub
 A small personalized USB hub for my devices and cables. I created this to gain further experience through a simple hardware project. I have been needing one for a while, and it was a good learning experience.
 
+The case will be attached with dowels I already own.
+
 
 # PCB design 
 <img width="847" height="390" alt="pcb" src="https://github.com/user-attachments/assets/6d0794fe-4c5a-47c7-973c-4cef3bc5db37" />

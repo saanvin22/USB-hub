@@ -1,7 +1,7 @@
 # USB-hub
 A small personalized USB hub for my devices and cables. I created this to gain further experience through a simple hardware project. I have been needing one for a while, and it was a good learning experience.
 
-The case will be attached with the glue tape I already own.
+The case will be attached with the glue tape I already own. Parts ordered through LCSC, PCB through JLPPCB
 
 
 # PCB design 

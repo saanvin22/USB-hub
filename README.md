@@ -13,18 +13,20 @@ The case will be attached with the glue tape I already own. Parts ordered throug
 
 
 # CAD
+<img width="786" height="331" alt="case + pcb" src="https://github.com/user-attachments/assets/ebb272f9-7cf1-4e30-96a2-a8a123a827f3" />
 
 
 # BOM
-| Quantity | Part | JLCPCB Price |
+| Quantity | Part | JLCPCB/LCSC Price in $ |
 | :------ | :---------: | ------: |
-| 1 | NSR0320MW2T1G |  |
-| 1 | U-G-O4DD-W-1 |  |
-| 1 | SL2.1A |  |
-| 3 | 903-131A1011D10100 |  |
-| 6 | 10uF |  |
-| 1 | PCB |  |
+| 1 | NSR0320MW2T1G | 0.5 |
+| 1 | U-G-O4DD-W-1 | 0.44 |
+| 1 | SL2.1A | 1.31 |
+| 3 | 903-131A1011D10100 | 0.43 |
+| 6 | 10uF | 0.11 |
+| 1 | PCB | 2.10 |
 
+Total + shipping: 31.81 + 28.89: $61.70 ~ $62
 
 
 

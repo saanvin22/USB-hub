@@ -19,8 +19,8 @@ A small personalized USB hub for my devices and cables. I created this to gain f
 | 1 | NSR0320MW2T1G |  |
 | 1 | U-G-O4DD-W-1 |  |
 | 1 | SL2.1A |  |
-| 1 | 903-131A1011D10100 |  |
-| 1 | 10uF |  |
+| 3 | 903-131A1011D10100 |  |
+| 6 | 10uF |  |
 | 1 | PCB |  |
 
 
